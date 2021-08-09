@@ -1,0 +1,14 @@
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\ProjectXDAL.dll.config
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\ProjectXDAL.dll
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\ProjectXDAL.pdb
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\EntityFramework.dll
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\ProjectXDTO.dll
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\ProjectXDTO.pdb
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\EntityFramework.xml
+C:\Users\Sanya\Desktop\ProjectXDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sanya\Desktop\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.AssemblyReference.cache
+C:\Users\Sanya\Desktop\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.CoreCompileInputs.cache
+C:\Users\Sanya\Desktop\ProjectXDAL\obj\Debug\ProjectXDAL.csproj.CopyComplete
+C:\Users\Sanya\Desktop\ProjectXDAL\obj\Debug\ProjectXDAL.dll
+C:\Users\Sanya\Desktop\ProjectXDAL\obj\Debug\ProjectXDAL.pdb
